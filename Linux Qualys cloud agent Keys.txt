@@ -1,0 +1,14 @@
+TDH_Class-1_Linux
+
+sudo rpm -ivh qualys-cloud-agent.x86_64.rpm 
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=553d8678-fc5e-48b8-aa1a-87202556ee6c CustomerId=227f0059-2359-5cdd-823e-5211b6e1d277
+
+TDH_Class-2_linux
+
+sudo rpm -ivh qualys-cloud-agent.x86_64.rpm 
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=095be61e-69e0-413c-8770-5d2b5ee72a68 CustomerId=227f0059-2359-5cdd-823e-5211b6e1d277
+
+TDH_Class-3_linux
+
+sudo rpm -ivh qualys-cloud-agent.x86_64.rpm 
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=453552d3-a2f5-4790-881c-fd3b6f43d41f CustomerId=227f0059-2359-5cdd-823e-5211b6e1d277
